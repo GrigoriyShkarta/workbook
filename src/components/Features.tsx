@@ -10,8 +10,8 @@ const Features = () => {
 		},
 		{
 			icon: <FaHeadphones className='text-3xl mb-4 text-[#ff6b6b]' />,
-			title: 'Високоякісний звук',
-			description: 'Записи у форматі MP3 з чітким звучанням',
+			title: 'Стилізовані вправи',
+			description: 'Вправи створені в рок стилі',
 		},
 		{
 			icon: <FaRegClock className='text-3xl mb-4 text-[#ff6b6b]' />,

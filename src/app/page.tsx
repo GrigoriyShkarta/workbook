@@ -15,7 +15,7 @@ export default function Home() {
 				<title>Fire Up Your Drive - Вокальні вправи для марафону</title>
 				<meta
 					name='description'
-					content='20 професійних вокальних вправ у форматі MP3 для вашого марафону'
+					content='20 професійних вокальних вправ у форматі MP3'
 				/>
 				<link rel='icon' href='/favicon.ico' />
 			</Head>

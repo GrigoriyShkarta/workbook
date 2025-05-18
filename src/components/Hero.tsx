@@ -13,8 +13,8 @@ const Hero = () => {
 						Fire Up Your Drive
 					</h1>
 					<p className='text-xl mb-8 opacity-90'>
-						20 професійних вокальних вправ у форматі MP3 для вашого марафону.
-						Підніміть свій голос на новий рівень!
+						20 професійних вокальних вправ у форматі MP3. Підніміть свій голос
+						на новий рівень!
 					</p>
 					<div className='flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4'>
 						<button className='bg-[#561526] hover:bg-[#7a1d34] text-white px-8 py-3 rounded-full font-bold text-lg transition cursor-pointer'>

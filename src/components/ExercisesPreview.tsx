@@ -25,37 +25,37 @@ const ExercisesPreview = () => {
 	const exercises = [
 		{
 			id: 1,
-			title: 'Розспівка #1',
+			title: 'Вправа 1',
 			duration: '3:45',
 			src: '../assets/audio/demo_1.mp3',
 		},
 		{
 			id: 2,
-			title: 'Діапазонне тренування',
+			title: 'Вправа 2',
 			duration: '4:20',
 			src: '../assets/audio/demo_2.mp3',
 		},
 		{
 			id: 3,
-			title: 'Динамічний контроль',
+			title: 'Вправа 3',
 			duration: '5:10',
 			src: '../assets/audio/demo_3.mp3',
 		},
 		{
 			id: 4,
-			title: 'Вибірковість звуку',
+			title: 'Вправа 4',
 			duration: '3:55',
 			src: '../assets/audio/demo_4.mp3',
 		},
 		{
 			id: 5,
-			title: 'Розспівка #2',
+			title: 'Вправа 5',
 			duration: '4:30',
 			src: '../assets/audio/demo_5.mp3',
 		},
 		{
 			id: 6,
-			title: 'Витримка нот',
+			title: 'Вправа 6',
 			duration: '6:15',
 			src: '../assets/audio/demo_6.mp3',
 		},
